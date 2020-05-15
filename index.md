@@ -40,8 +40,8 @@
 - __Firecracker__: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 
 ## Publications
-- I'll publish book written about container runtime from インプレスR&D. Now writing.
-- 「Gopherの休日 2020冬」第7章 コンテナランタイム自作入門 - 技術書典7
+- I'll publish e-book written about __container runtime__ from __Impress Corporation__. Now writing.
+- 「Gopherの休日 2020冬: 第7章 コンテナランタイム自作入門」- 技術書典7 (Just a unpublished magazine. I contributed to __golang.tokyo__ community.)
 
 ## Talks
 - [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
