@@ -7,6 +7,9 @@
 
 ## Employment History
 
+## Education
+- April, 2016 - Current: Keio University
+
 ## OSS
 
 #### contributions
@@ -22,6 +25,7 @@
 
 ## Publications
 - I'll publish book written about container runtime from インプレスR&D. Now writing.
+- 「Gopherの休日 2020冬」第7章 コンテナランタイム自作入門 - 技術書典7
 
 ## Talks
 - [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
@@ -30,4 +34,4 @@
 ## Qualifications
 - CKA - Certified Kubernetes Administrator
 
-<img width="300" src="https://moricho.github.io/images/cka.png">
+<img width="320" src="https://moricho.github.io/images/cka.png">
