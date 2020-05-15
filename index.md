@@ -9,25 +9,25 @@
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 
 ## Employment History
-- AbemaTV
-- BASE
+- December, 2019 - January 2020: __software engineer intern at AbemaTV__
+- Augast, 2018 - January 2019: __software engineer intern at BASE__
 - Others
 
 ## Education
-- April, 2016 - Current: Keio University
+- __April, 2016 - Current: Keio University__
 
 ## OSS
 
 #### contributions
 
-- [gVisor](https://github.com/google/gvisor)
+- __gVisor__: [https://github.com/google/gvisor](https://github.com/google/gvisor)
   - [Add profiling option for debug](https://github.com/google/gvisor/pull/1951)
   - [Make mount type optional for bind mounts](https://github.com/google/gvisor/pull/2487)
   - [Support Epoller to forward oom score notifications](https://github.com/google/gvisor-containerd-shim/issues/56)
-- [Rook](https://github.com/rook/rook)
+- __Rook__: [https://github.com/rook/rook](https://github.com/rook/rook)
   - [Move to Go Modules](https://github.com/rook/rook/pull/4984)
   - [Fix `codegen` to find boilerplate outside of the $GOPATH](https://github.com/rook/rook/pull/5110)
-- [Firecracker](https://github.com/firecracker-microvm/firecracker)
+- __Firecracker__: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 
 ## Publications
 - I'll publish book written about container runtime from インプレスR&D. Now writing.
