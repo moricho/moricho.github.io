@@ -1,4 +1,6 @@
-# Morito Ikeda (@moricho)
+# Morito Ikeda
+
+<img width="300" src="https://moricho.github.io/images/kuma.jpeg">
 
 ## Information
 - Github: [https://github.com/moricho](https://github.com/moricho)
@@ -7,6 +9,9 @@
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 
 ## Employment History
+- AbemaTV
+- BASE
+- Others
 
 ## Education
 - April, 2016 - Current: Keio University
