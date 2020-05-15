@@ -10,11 +10,21 @@
 
 ## Employment History
 - December, 2019 - January 2020: __software engineer intern at AbemaTV__
+  - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
+  - developed a few microservices in Go on Kubernetes
+  - build load environment: made scenarios, prepared the production equivalent data, and get loads on the system with Locust
+  - tuned the performance of the application, Envoy parameter and pod replica size based on the load test
+  - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, etc
 - Augast, 2018 - January 2019: __software engineer intern at BASE__
-- Others
+  - participated in launch of a new fintech business
+  - developed the API in Go (adopt TDD and Layered Architecture)
+  - developed the frontend application in Vue.js collaborating with an designer
+- __Others (subcontract)__
+  - developed server of blockchain service in Go on Kubernetes
+  - developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc.
 
 ## Education
-- __April, 2016 - Current: Keio University__
+- April, 2016 - Current: __Keio University__
 
 ## OSS
 
