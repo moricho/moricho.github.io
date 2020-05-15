@@ -21,12 +21,13 @@
 - [Firecracker](https://github.com/firecracker-microvm/firecracker)
 
 ## Publications
-- I'll publish book about container runtime form インプレスR&D. Now writing.
+- I'll publish book written about container runtime from インプレスR&D. Now writing.
 
 ## Talks
 - [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
   - golang.tokyo#29 20min session
 
 ## Qualifications
-- [CKA - Certified Kubernetes Administrator]
-<img width="280" src="https://moricho.github.io/images/cka.png">
+- CKA - Certified Kubernetes Administrator
+
+<img width="300" src="https://moricho.github.io/images/cka.png">
