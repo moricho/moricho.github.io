@@ -15,13 +15,15 @@
   - build load environment: made scenarios, prepared the production equivalent data, and get loads on the system with Locust
   - tuned the performance of the application, Envoy parameter and pod replica size based on the load test
   - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, etc
+- September, 2019 - October 2019: __software engineer intern at Recruit Technologies__
+  - 
 - Augast, 2018 - January 2019: __software engineer intern at BASE__
   - participated in launch of a new fintech business
   - developed the API in Go (adopt TDD and Layered Architecture)
   - developed the frontend application in Vue.js collaborating with an designer
 - __Others (subcontract)__
-  - developed server of blockchain service in Go on Kubernetes
-  - developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc.
+  - developed server of blockchain service in Go on Kubernetes (for three months)
+  - developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc. (for four months)
 
 ## Education
 - April, 2016 - Current: __Keio University__
@@ -41,13 +43,15 @@
 
 ## Publications
 - I'll publish e-book written about __container runtime__ from __Impress Corporation__. Now writing.
-- 「Gopherの休日 2020冬: 第7章 コンテナランタイム自作入門」- 技術書典7 (Just a unpublished magazine. I contributed to __golang.tokyo__ community.)
+- __「Gopherの休日 2020冬: 第7章 コンテナランタイム自作入門」- 技術書典7__
+  - Just a unpublished magazine. I contributed to __golang.tokyo__ community.
 
 ## Talks
 - [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
   - golang.tokyo#29 20min session
+- Others can be found [here](https://speakerdeck.com/moricho)
 
 ## Qualifications
-- CKA - Certified Kubernetes Administrator
+- __CKA__ - Certified Kubernetes Administrator
 
 <img width="320" src="https://moricho.github.io/images/cka.png">
