@@ -12,11 +12,12 @@
 - December, 2019 - January 2020: __software engineer intern at AbemaTV__
   - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
   - developed a few microservices in Go on Kubernetes
-  - build load environment: made scenarios, prepared the production equivalent data, and get loads on the system with Locust
+  - build load environment: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
   - tuned the performance of the application, Envoy parameter and pod replica size based on the load test
-  - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, etc
+  - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
 - September, 2019 - October 2019: __software engineer intern at Recruit Technologies__
-  - 
+  - replaced legacy system to new system using ECS Fargate
+  - build CI pipeline
 - Augast, 2018 - January 2019: __software engineer intern at BASE__
   - participated in launch of a new fintech business
   - developed the API in Go (adopt TDD and Layered Architecture)
