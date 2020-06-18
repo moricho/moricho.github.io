@@ -53,7 +53,7 @@
 - [gVisorで実現するこれからのコンテナセキュリティ](https://speakerdeck.com/moricho/gvisordeshi-xian-surukorekarafalsekontenasekiyuritei)
   - KubeFest Tokyo 2020, LT
 - [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](placeholder)
-  - EnvoyMeetup#2, LT
+  - Envoy Meetup Tokyo#2, LT
 - Others can be found [here](https://speakerdeck.com/moricho)
 
 ## Qualifications
