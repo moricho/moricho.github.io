@@ -49,7 +49,11 @@
 
 ## Talks
 - [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
-  - golang.tokyo#29 20min session
+  - golang.tokyo#29, 20min session
+- [gVisorで実現するこれからのコンテナセキュリティ](https://speakerdeck.com/moricho/gvisordeshi-xian-surukorekarafalsekontenasekiyuritei)
+  - KubeFest Tokyo 2020, LT
+- [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](placeholder)
+  - EnvoyMeetup#2, LT
 - Others can be found [here](https://speakerdeck.com/moricho)
 
 ## Qualifications
