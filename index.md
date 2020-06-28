@@ -52,7 +52,7 @@
   - golang.tokyo#29, 20min session
 - [gVisorで実現するこれからのコンテナセキュリティ](https://speakerdeck.com/moricho/gvisordeshi-xian-surukorekarafalsekontenasekiyuritei)
   - KubeFest Tokyo 2020, LT
-- [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](placeholder)
+- [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](https://speakerdeck.com/moricho/recap-zero-trust-service-mesh-with-calico-spire-and-envoy)
   - Envoy Meetup Tokyo#2, LT
 - Others can be found [here](https://speakerdeck.com/moricho)
 
