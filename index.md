@@ -27,7 +27,7 @@
   - developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc. (for four months)
 
 ## Education
-- April, 2016 - Current: __Keio University__
+- April, 2016 - Current: __Keio University, Faculty of Science and Engineering__
 
 ## OSS
 
