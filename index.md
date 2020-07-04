@@ -12,8 +12,10 @@
 - December, 2019 - January 2020: __software engineer intern at AbemaTV__
   - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
   - developed a few microservices in Go on Kubernetes
-  - build load environment: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
-  - tuned the performance of the application, Envoy parameter and pod replica size based on the load test
+  - improved observability, planned load test and build load environment for more production ready microservice.
+    - observability: introduced distributed tracing(OpenCensus/StackdriverTrace), profiling(pprof) and build monitoring system(Prometheus, Grafana).
+    - load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
+    - tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
   - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
 - September, 2019 - October 2019: __software engineer intern at Recruit Technologies__
   - replaced legacy system to new system using ECS Fargate
@@ -32,7 +34,6 @@
 ## OSS
 
 #### contributions
-
 - __gVisor__: [https://github.com/google/gvisor](https://github.com/google/gvisor)
   - [Add profiling option for debug](https://github.com/google/gvisor/pull/1951)
   - [Make mount type optional for bind mounts](https://github.com/google/gvisor/pull/2487)
@@ -41,6 +42,7 @@
   - [Move to Go Modules](https://github.com/rook/rook/pull/4984)
   - [Fix `codegen` to find boilerplate outside of the $GOPATH](https://github.com/rook/rook/pull/5110)
 - __Firecracker__: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  - [Remove dumbo's dependency on mmds](https://github.com/firecracker-microvm/firecracker/pull/1813)
 
 ## Publications
 - I'll publish e-book written about __container runtime__ from __Impress Corporation__. Now writing.
