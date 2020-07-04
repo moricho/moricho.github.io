@@ -12,7 +12,7 @@
 - December, 2019 - January 2020: __software engineer intern at AbemaTV__
   - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
   - developed a few microservices in Go on Kubernetes
-  - improved observability, planned load test and build load environment for more production ready microservice.
+  - improved observability, planned load test and built load environment for more production ready microservice.
     - observability: introduced distributed tracing(OpenCensus/StackdriverTrace), profiling(pprof) and build monitoring system(Prometheus, Grafana).
     - load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
     - tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
