@@ -23,6 +23,7 @@
 - Augast, 2018 - January 2019: __software engineer intern at BASE__
   - participated in launch of a new fintech business
   - developed the API in Go (adopt TDD and Layered Architecture)
+  - introduce golangci-lint
   - developed the frontend application in Vue.js collaborating with an designer
 - __Others (subcontract)__
   - developed server of blockchain service in Go on Kubernetes (for three months)
