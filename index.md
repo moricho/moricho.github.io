@@ -9,7 +9,12 @@
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 
 ## Employment History
-- December, 2019 - January 2020: __software engineer intern at AbemaTV__
+- Augast 2020: __software engineer intern at Cybozu__
+  - designed and implemented an automatic PVC resizer (Kubernetes CustomController) from scratch and publish it as OSS: [pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer)
+    -  `pvc-autoresizer` is an automatic volume resizer that edits PVCs if they have less than the specified amount of free filesystem capacity.
+    - implemented a Reconciler. For more detail: [pvc-autoresizer/docs/design.md](https://github.com/topolvm/pvc-autoresizer/blob/master/docs/design.md)
+    - implemented a Prometheus client used in `pvc-autoresizer` to collect logs from kubelet.
+- December, 2019 - January, 2020: __software engineer intern at AbemaTV__
   - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
   - developed a few microservices in Go on Kubernetes
   - improved observability, planned load test and built load environment for more production ready microservice.
@@ -17,10 +22,10 @@
     - load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
     - tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
   - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
-- September, 2019 - October 2019: __software engineer intern at Recruit Technologies__
+- September, 2019 - October, 2019: __software engineer intern at Recruit Technologies__
   - replaced legacy system to new system using ECS Fargate
   - build CI pipeline
-- Augast, 2018 - January 2019: __software engineer intern at BASE__
+- Augast, 2018 - January, 2019: __software engineer intern at BASE__
   - participated in launch of a new fintech business
   - developed the API in Go (adopt TDD and Layered Architecture)
   - introduce golangci-lint
@@ -57,6 +62,8 @@
   - KubeFest Tokyo 2020, LT
 - [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](https://speakerdeck.com/moricho/recap-zero-trust-service-mesh-with-calico-spire-and-envoy)
   - Envoy Meetup Tokyo#2, LT
+- [Deep Dive into Runtime Shim](https://speakerdeck.com/moricho/deep-dive-into-runtime-shim)
+  - ContainerRuntime Meetup#2, 10min session
 - Others can be found [here](https://speakerdeck.com/moricho)
 
 ## Qualifications
