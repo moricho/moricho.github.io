@@ -56,14 +56,15 @@
   - Just a unpublished magazine. I contributed to __golang.tokyo__ community.
 
 ## Talks
-- [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
-  - golang.tokyo#29, 20min session
-- [gVisorで実現するこれからのコンテナセキュリティ](https://speakerdeck.com/moricho/gvisordeshi-xian-surukorekarafalsekontenasekiyuritei)
-  - KubeFest Tokyo 2020, LT
-- [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](https://speakerdeck.com/moricho/recap-zero-trust-service-mesh-with-calico-spire-and-envoy)
-  - Envoy Meetup Tokyo#2, LT
+- I'll talk about `gVisor`, application kernel for containers, at CNDT2020. 20min session.
 - [Deep Dive into Runtime Shim](https://speakerdeck.com/moricho/deep-dive-into-runtime-shim)
   - ContainerRuntime Meetup#2, 10min session
+- [Recap: Zero Trust Service Mesh with Calico, SPIRE, and Envoy](https://speakerdeck.com/moricho/recap-zero-trust-service-mesh-with-calico-spire-and-envoy)
+  - Envoy Meetup Tokyo#2, LT
+- [gVisorで実現するこれからのコンテナセキュリティ](https://speakerdeck.com/moricho/gvisordeshi-xian-surukorekarafalsekontenasekiyuritei)
+  - KubeFest Tokyo 2020, LT
+- [Deep dive into sync.Pool](https://speakerdeck.com/moricho/deep-dive-into-sync-dot-pool)
+  - golang.tokyo#29, 20min session
 - Others can be found [here](https://speakerdeck.com/moricho)
 
 ## Qualifications
