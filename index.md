@@ -1,6 +1,6 @@
 # Morito Ikeda
 
-<img width="300" src="https://moricho.github.io/images/kuma.jpeg">
+<img width="300" src="https://moricho.github.io/images/profile.jpg">
 
 ## Information
 - Github: [https://github.com/moricho](https://github.com/moricho)
@@ -9,30 +9,36 @@
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 
 ## Employment History
-- Augast 2020: __software engineer intern at Cybozu__
-  - designed and implemented an automatic PVC resizer (Kubernetes CustomController) from scratch and publish it as OSS: [pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer)
+- October, 2020 - September 2022: __Software engineer at Mercari__
+  - Working at Platform group
+    - Develop infrastructure and provide middleware and internal system across organization such as Mercari, Merpay, Mercoin
+      - Developed temporary privilege granting system to promote Zero Touch Production. The objective was to reduce failure and security risks by avoiding direct human contact with the production environment, including SREs.
+      - Designed and developed cost visualization platform to optimize infrastructure resources and monetary costs.
+      - Introduced policy audit system to enhance security of our Kubernetes infrastructure. 
+- Augast 2020: __Software engineer intern at Cybozu__
+  - Designed and implemented an automatic PVC resizer (Kubernetes CustomController) from scratch and publish it as OSS: [pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer)
     -  `pvc-autoresizer` is an automatic volume resizer that edits PVCs if they have less than the specified amount of free filesystem capacity.
-    - implemented a Reconciler. For more detail: [pvc-autoresizer/docs/design.md](https://github.com/topolvm/pvc-autoresizer/blob/master/docs/design.md)
-    - implemented a Prometheus client used in `pvc-autoresizer` to collect logs from kubelet.
-- December, 2019 - January, 2020: __software engineer intern at AbemaTV__
-  - belonged to Ad Association of AbemaTV and participated in launch of a new big feature
-  - developed a few microservices in Go on Kubernetes
-  - improved observability, planned load test and built load environment for more production ready microservice.
-    - observability: introduced distributed tracing(OpenCensus/StackdriverTrace), profiling(pprof) and build monitoring system(Prometheus, Grafana).
-    - load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
-    - tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
-  - developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
-- September, 2019 - October, 2019: __software engineer intern at Recruit Technologies__
-  - replaced legacy system to new system using ECS Fargate
-  - build CI pipeline
-- Augast, 2018 - January, 2019: __software engineer intern at BASE__
-  - participated in launch of a new fintech business
-  - developed the API in Go (adopt TDD and Layered Architecture)
-  - introduce golangci-lint
-  - developed the frontend application in Vue.js collaborating with an designer
+    - Implemented a Reconciler. For more detail: [pvc-autoresizer/docs/design.md](https://github.com/topolvm/pvc-autoresizer/blob/master/docs/design.md)
+    - Implemented a Prometheus client used in `pvc-autoresizer` to collect logs from kubelet.
+- December, 2019 - January, 2020: __Software engineer intern at AbemaTV__
+  - Belonged to Ad Association of AbemaTV and participated in launch of a new big feature
+  - Developed a few microservices in Go on Kubernetes
+  - Improved observability, planned load test and built load environment for more production ready microservice.
+    - Observability: introduced distributed tracing(OpenCensus/StackdriverTrace), profiling(pprof) and build monitoring system(Prometheus, Grafana).
+    - Load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
+    - Performance tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
+  - Developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
+- September, 2019 - October, 2019: __Software engineer intern at Recruit Technologies__
+  - Replaced legacy system to new system using ECS Fargate
+  - Build CI pipeline
+- Augast, 2018 - January, 2019: __Software engineer intern at BASE__
+  - Participated in launch of a new fintech business
+  - Developed the API in Go (adopt TDD and Layered Architecture)
+  - Introduce golangci-lint
+  - Developed the frontend application in Vue.js collaborating with an designer
 - __Others (subcontract)__
-  - developed server of blockchain service in Go on Kubernetes (for three months)
-  - developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc. (for four months)
+  - Developed server of blockchain service in Go on Kubernetes (for three months)
+  - Developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc. (for four months)
 
 ## Education
 - April, 2016 - Current: __Keio University, Faculty of Science and Engineering__
@@ -40,6 +46,7 @@
 ## OSS
 
 #### contributions
+- __foundry__: [https://github.com/foundry-rs/foundry](https://github.com/foundry-rs/foundry)
 - __gVisor__: [https://github.com/google/gvisor](https://github.com/google/gvisor)
   - [Add profiling option for debug](https://github.com/google/gvisor/pull/1951)
   - [Make mount type optional for bind mounts](https://github.com/google/gvisor/pull/2487)
@@ -56,6 +63,8 @@
   - Just a unpublished magazine. I contributed to __golang.tokyo__ community.
 
 ## Talks
+- [Enhance Kubernetes Security with Gatekeeper](https://speakerdeck.com/moricho/enhance-kubernetes-security-with-gatekeeper)
+  - Mercari Platform Group Tech Talk, 20min session
 - I'll talk about `gVisor`, application kernel for containers, at CNDT2020. 20min session.
 - [Deep Dive into Runtime Shim](https://speakerdeck.com/moricho/deep-dive-into-runtime-shim)
   - ContainerRuntime Meetup#2, 10min session
