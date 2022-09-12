@@ -8,11 +8,16 @@
 - SpeakerDeck: [https://speakerdeck.com/moricho](https://speakerdeck.com/moricho)
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 
+## Tech Stack
+- Go, Rust, React/Next, Solidity
+- Terraform, Kubernetes, Docker
+- GCP, AWS
+
 ## Employment History
 - October, 2020 - September 2022: __Software engineer at Mercari__
   - Working at Platform group
     - Develop infrastructure and provide middleware and internal system across organization such as Mercari, Merpay, Mercoin
-      - Developed temporary privilege granting system to promote Zero Touch Production. The objective was to reduce failure and security risks by avoiding direct human contact with the production environment, including SREs.
+      - Developed temporary privilege granting system to promote Zero Touch Production. The objective was to reduce failure and security risks by avoiding direct human contact with the production environment, including SREs. Developed Kubernetes custom controller with Go and user interface with React.
       - Designed and developed cost visualization platform to optimize infrastructure resources and monetary costs.
       - Introduced policy audit system to enhance security of our Kubernetes infrastructure. 
 - Augast 2020: __Software engineer intern at Cybozu__
@@ -41,11 +46,11 @@
   - Developed application server with Django and build data processing system with AWS Lambda, S3, fluentd, etc. (for four months)
 
 ## Education
-- April, 2016 - Current: __Keio University, Faculty of Science and Engineering__
+- April, 2016 - March, 2021: __Keio University, Faculty of Science and Engineering__
 
 ## OSS
 
-#### contributions
+#### Contributions
 - __foundry__: [https://github.com/foundry-rs/foundry](https://github.com/foundry-rs/foundry)
 - __gVisor__: [https://github.com/google/gvisor](https://github.com/google/gvisor)
   - [Add profiling option for debug](https://github.com/google/gvisor/pull/1951)
@@ -58,9 +63,12 @@
   - [Remove dumbo's dependency on mmds](https://github.com/firecracker-microvm/firecracker/pull/1813)
 
 ## Publications
+- Blog posts at Mercari
+  - [Promote Zero Touch Production – further features of Carrier](https://engineering.mercari.com/en/blog/entry/20220201-promote-zero-touch-production-further-features-of-carrier/)
+  - [Enhance Kubernetes Security with OPA Gatekeeper](https://engineering.mercari.com/en/blog/entry/20201222-enhance-kubernetes-security-with-opa-gatekeeper/)
 - I'll publish e-book written about __container runtime__ from __Impress Corporation__. Now writing.
 - __「Gopherの休日 2020冬: 第7章 コンテナランタイム自作入門」- 技術書典7__
-  - Just a unpublished magazine. I contributed to __golang.tokyo__ community.
+  - An unpublished magazine. I contributed to __golang.tokyo__ community.
 
 ## Talks
 - [Enhance Kubernetes Security with Gatekeeper](https://speakerdeck.com/moricho/enhance-kubernetes-security-with-gatekeeper)
