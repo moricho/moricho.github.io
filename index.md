@@ -23,7 +23,7 @@ Interests:
 ## Employment History
 
 - September, 2022 - : Self employed
-  -
+  - Building products in web3
 - October, 2020 - September, 2022: **Software engineer at Mercari**
   - Worked at Platform group
     - Develop infrastructure and provide middleware and internal system across organization such as Mercari, Merpay, Mercoin
@@ -63,11 +63,6 @@ Interests:
   - Developed the API in Go (adopt TDD and Layered Architecture)
   - Introduce golangci-lint
   - Developed the frontend application in Vue.js collaborating with an designer
-
-### Others (subcontract)
-
-- Developed server side of blockchain service in Go on Kubernetes
--
 
 ## Education
 
