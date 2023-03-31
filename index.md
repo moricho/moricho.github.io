@@ -8,6 +8,7 @@
 - Twitter: [https://twitter.com/\_moricho\_](https://twitter.com/_moricho_)
 - SpeakerDeck: [https://speakerdeck.com/moricho](https://speakerdeck.com/moricho)
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
+- ENS: m0r1ch0.eth
 
 ## Tech Stack
 
