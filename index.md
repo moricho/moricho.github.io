@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-- Go(4y), Rust(2y), React/Next.js(3y), Solidity(1y)
+- Go(4y), Rust(2y), Node.js/TypeScript(3y), React/Next.js(3y), Solidity(1y)
 - Terraform, Kubernetes, Docker
 - GCP, AWS
 
@@ -86,7 +86,6 @@ Interests:
 - **Firecracker**: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing. Used in container services in AWS such as AWS Lambda.
     - [Remove dumbo's dependency on mmds](https://github.com/firecracker-microvm/firecracker/pull/1813)
-- **TopoLVM**" [https://github.com/topolvm/topolvm](https://github.com/topolvm/topolvm)
 - **Rook**: [https://github.com/rook/rook](https://github.com/rook/rook)
   - Cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for Ceph storage to natively integrate with Kubernetes
     - [Move to Go Modules](https://github.com/rook/rook/pull/4984)
