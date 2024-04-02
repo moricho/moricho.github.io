@@ -28,6 +28,7 @@
     - Researched on MEV/Flashbots and incorporated them into actual strategies. Also doing research on relatively new DeFi protocols such as interest rates and perpetuals.
   - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
     - Created Quests using Ethers.js/Typescript. Worked on a feature to mint the user's on-chain history as an identity with integrating to smart contracts of other prtocols (DeFi protocols such as Timeswap and sudoswap and other famous projects such as Mirror and Lens).
+    - Added some features to a new smart contract ([PHImaterial](https://github.com/PHI-LABS-INC/PHIMaterial)), communicated with an audit team and addressed security issues in response to the audit reports. (The work was done in a separate private repository, but it is not in the history because it was committed together as an initial commit in this repository for public use.)
     - Formulated new feature specifications, designed architecture, and developed using Typescript and AWS.
     - Designed and developed wallet authentication system.
     - Analyzed the effectiveness of the measures by Dune and created a dashboard.
