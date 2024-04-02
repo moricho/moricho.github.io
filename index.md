@@ -21,12 +21,17 @@
 
 - September, 2022 - : Freelance
   - July, 2023 - Current: **Tech Lead at a crypto hedge fund**
+    - Designed and developed a high performance and secure trading system using Rust, Solidity and GCP/GKE.
+    - CI/CD arrangements to improve development agility
+    - Developing Observability infrastructure using Datadog, etc.
+    - Project management of a small team and code reviews. Responsible for improving the productivity of the developers and ensuring the quality and speed of the team's output.
+    - Researched on MEV/Flashbots and incorporated them into actual strategies. Also doing research on relatively new DeFi protocols such as interest rates and perpetuals.
   - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
     - Created Quests using Ethers.js/Typescript. Quests - a feature to mint the user's on-chain history as an identity integrating with other protocol's contracts.
     - Formulated new feature specifications, designed architecture, and developed using Typescript and AWS.
     - Designed and developed wallet authentication system.
     - Analyzed the effectiveness of the measures by Dune and created a dashboard.
-- October, 2020 - September, 2022: **Software engineer at Mercari**
+- October, 2020 - September, 2022: **Software engineer at [Mercari](https://www.mercari.com/)**
   - Worked at Platform group
     - Develop infrastructure and provide middleware and internal system across organization such as Mercari, Merpay, Mercoin
       - Developed temporary privilege granting system to promote Zero Touch Production. The objective was to reduce failure and security risks by avoiding direct human contact with the production environment, including SREs. Developed Kubernetes custom controller with Go and user interface with React.
