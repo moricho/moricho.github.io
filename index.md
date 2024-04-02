@@ -27,7 +27,7 @@
     - Project management of a small team and code reviews. Responsible for improving the productivity of the developers and ensuring the quality and speed of the team's output.
     - Researched on MEV/Flashbots and incorporated them into actual strategies. Also doing research on relatively new DeFi protocols such as interest rates and perpetuals.
   - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
-    - Created Quests using Ethers.js/Typescript. Quests - a feature to mint the user's on-chain history as an identity integrating with other protocol's contracts.
+    - Created Quests using Ethers.js/Typescript. Worked on a feature to mint the user's on-chain history as an identity with integrating to smart contracts of other prtocols (DeFi protocols such as Timeswap and sudoswap and other famous projects such as Mirror and Lens).
     - Formulated new feature specifications, designed architecture, and developed using Typescript and AWS.
     - Designed and developed wallet authentication system.
     - Analyzed the effectiveness of the measures by Dune and created a dashboard.
