@@ -54,10 +54,6 @@
   - Introduce golangci-lint
   - Developed the frontend application in Vue.js collaborating with an designer
 
-## Education
-
-- April, 2016 - March, 2021: **Keio University, Faculty of Science and Engineering**
-
 ## OSS
 
 - **tparallel**: [https://github.com/moricho/tparallel](https://github.com/moricho/tparallel)
@@ -78,6 +74,11 @@
   - An application kernel, written in Go, that implements a substantial portion of the Linux system surface. Used in container services in GCP such as Cloud Run and GKE.
 - **firecracker-microvm/firecracker**: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing. Used in container services in AWS such as AWS Lambda.
+
+## Hackathon
+
+- ETH Global Tokyo 2023
+  - Granted by Lens and Lit Protocol
 
 ## Publications
 
@@ -108,3 +109,7 @@
 - **CKA** - Certified Kubernetes Administrator
 
 <img width="320" src="https://moricho.github.io/images/cka.png">
+
+## Education
+
+- April, 2016 - March, 2021: **Keio University, Faculty of Science and Engineering**
