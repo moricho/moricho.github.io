@@ -37,23 +37,9 @@
       - Developed temporary privilege granting system to promote Zero Touch Production. The objective was to reduce failure and security risks by avoiding direct human contact with the production environment, including SREs. Developed Kubernetes custom controller with Go and user interface with React.
       - Designed and developed cost visualization platform to optimize infrastructure resources and monetary costs.
       - Introduced policy audit system to enhance security of our Kubernetes infrastructure.
-- You can see more my engineering experience at [Subcontract section](###Subcontract)
 
-### Experience in web3
+### Others
 
-- Frontend and backend development for a fashion NFT launchpad
-  - Designed and developed contracts and web frontend, built AWS infrastructure, etc.
-- Backend development for a BCG
-  - Developed game backend, built an indexer to sync on-chain data, etc.
-- Backend development for a wallet service
-
-### Subcontract
-
-- **Cybozu**
-  - Designed and implemented an automatic PVC resizer (Kubernetes CustomController) from scratch and publish it as OSS: [pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer)
-    - `pvc-autoresizer` is an automatic volume resizer that edits PVCs if they have less than the specified amount of free filesystem capacity.
-    - Implemented a Reconciler. For more detail: [pvc-autoresizer/docs/design.md](https://github.com/topolvm/pvc-autoresizer/blob/master/docs/design.md)
-    - Implemented a Prometheus client used in `pvc-autoresizer` to collect logs from kubelet.
 - **AbemaTV**
   - Belonged to Ad Association of AbemaTV and participated in launch of a new big feature
   - Developed a few microservices in Go on Kubernetes
