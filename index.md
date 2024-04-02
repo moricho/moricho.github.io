@@ -9,22 +9,23 @@
 - SpeakerDeck: [https://speakerdeck.com/moricho](https://speakerdeck.com/moricho)
 - Medium: [https://medium.com/@ikeda.morito](https://medium.com/@ikeda.morito)
 - ENS: m0r1ch0.eth
+- Warpcast: [https://warpcast.com/m0r1t0](https://warpcast.com/m0r1t0)
 
 ## Tech Stack
 
-- Go(4y), Rust(2y), Node.js/TypeScript(3y), React/Next.js(3y), Solidity(1y)
+- Go, Rust, Node.js/TypeScript, Solidity, React/Next.js
 - Terraform, Kubernetes, Docker
 - GCP, AWS
 
-Interests:
-
-- NFT-Fi
-- ZKP, Privacy
-
 ## Employment History
 
-- September, 2022 - : Self employed
-  - Building products in web3
+- September, 2022 - : Freelance
+  - July, 2023 - Current: **Tech Lead at a crypto hedge fund**
+  - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
+    - Created Quests using Ethers.js/Typescript. Quests - a feature to mint the user's on-chain history as an identity integrating with other protocol's contracts.
+    - Formulated new feature specifications, designed architecture, and developed using Typescript and AWS.
+    - Designed and developed wallet authentication system.
+    - Analyzed the effectiveness of the measures by Dune and created a dashboard.
 - October, 2020 - September, 2022: **Software engineer at Mercari**
   - Worked at Platform group
     - Develop infrastructure and provide middleware and internal system across organization such as Mercari, Merpay, Mercoin
@@ -56,9 +57,6 @@ Interests:
     - Load test: made scenarios, prepared the production equivalent data, and got loads on the system with Locust
     - Performance tuning: tuned the performance of the application, Envoy parameter and pod replica size based on the load test
   - Developed a helper application with TypeScript, Cloud Function, Cloud Pub/Sub, Terraform, etc
-- **Recruit Technologies**
-  - Replaced legacy system to new system using ECS Fargate
-  - Build CI pipeline
 - **BASE**
   - Participated in launch of a new fintech business
   - Developed the API in Go (adopt TDD and Layered Architecture)
@@ -77,19 +75,18 @@ Interests:
 
 #### Contributions
 
-- **foundry**: [https://github.com/foundry-rs/foundry](https://github.com/foundry-rs/foundry)
-- **gVisor**: [https://github.com/google/gvisor](https://github.com/google/gvisor)
+- **alloy-rs/alloy**: [https://github.com/alloy-rs/alloy](https://github.com/alloy-rs/alloy)
+  - Transports, Middleware, and Networks for the Alloy project
+- **alloy-rs/core**: [https://github.com/alloy-rs/core](https://github.com/alloy-rs/core)
+  - High-performance, well-tested & documented core libraries for Ethereum, in Rust
+- **foundry-rs/foundry**: [https://github.com/foundry-rs/foundry](https://github.com/foundry-rs/foundry)
+  - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- **google-cloud-rust**: [https://github.com/yoshidan/google-cloud-rust](https://github.com/yoshidan/google-cloud-rust)
+  - Google Cloud Client Libraries for Rust.
+- **google/gvisor**: [https://github.com/google/gvisor](https://github.com/google/gvisor)
   - An application kernel, written in Go, that implements a substantial portion of the Linux system surface. Used in container services in GCP such as Cloud Run and GKE.
-    - [Add profiling option for debug](https://github.com/google/gvisor/pull/1951)
-    - [Make mount type optional for bind mounts](https://github.com/google/gvisor/pull/2487)
-    - [Support Epoller to forward oom score notifications](https://github.com/google/gvisor-containerd-shim/issues/56)
-- **Firecracker**: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+- **firecracker-microvm/firecracker**: [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   - Secure and fast microVMs for serverless computing. Used in container services in AWS such as AWS Lambda.
-    - [Remove dumbo's dependency on mmds](https://github.com/firecracker-microvm/firecracker/pull/1813)
-- **Rook**: [https://github.com/rook/rook](https://github.com/rook/rook)
-  - Cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for Ceph storage to natively integrate with Kubernetes
-    - [Move to Go Modules](https://github.com/rook/rook/pull/4984)
-    - [Fix `codegen` to find boilerplate outside of the $GOPATH](https://github.com/rook/rook/pull/5110)
 
 ## Publications
 
