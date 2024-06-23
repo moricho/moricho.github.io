@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-- Go, Rust, Node.js/TypeScript, Solidity, React/Next.js
+- Go, Rust, TypeScript, Solidity, React/Next.js
 - Terraform, Kubernetes, Docker
 - GCP, AWS
 
@@ -22,8 +22,8 @@
 - September, 2022 - : Freelance
   - July, 2023 - Current: **Tech Lead at a crypto hedge fund**
     - Designed and developed a high performance and secure trading system using Rust, Solidity and GCP/GKE.
-    - CI/CD arrangements to improve development agility
-    - Developing Observability infrastructure using Datadog, etc.
+    - Developed CI/CD infrastructure to improve development agility using GitHub Actions and ArgoCD.
+    - Developed Observability infrastructure using Datadog.
     - Project management of a small team and code reviews. Responsible for improving the productivity of the developers and ensuring the quality and speed of the team's output.
     - Researched on MEV/Flashbots and incorporated them into actual strategies. Also doing research on relatively new DeFi protocols such as interest rates and perpetuals.
   - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
@@ -113,4 +113,4 @@
 
 ## Education
 
-- April, 2016 - March, 2021: **Keio University, Faculty of Science and Engineering**
+- April, 2016 - March, 2020: **Keio University, Faculty of Science and Engineering**
