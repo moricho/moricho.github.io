@@ -18,7 +18,7 @@
 - GCP, AWS
 
 ## Employment History
-- July, 2023 - Current: **Tech Lead at a crypto trading firm**
+- July, 2023 - Current: **Tech Lead at a proprietary crypto trading firm**
   - Crypto Trading Systems
     - Designed and developed automated cryptocurrency trading systems covering market data collection, strategy execution including indicator computation and trading decisions, and order execution.
     - Built exchange integrations for venues including Binance and Bybit using REST and WebSocket APIs.
