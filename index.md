@@ -13,19 +13,28 @@
 
 ## Tech Stack
 
-- Go, Rust, TypeScript, Solidity, React/Next.js
+- Go, Rust, TypeScript, Solidity
 - Terraform, Kubernetes, Docker
 - GCP, AWS
 
 ## Employment History
-
+- July, 2023 - Current: **Tech Lead at a crypto trading firm**
+  - Crypto Trading Systems
+    - Designed and developed automated cryptocurrency trading systems covering market data collection, strategy execution including indicator computation and trading decisions, and order execution.
+    - Built exchange integrations for venues including Binance and Bybit using REST and WebSocket APIs.
+    - Evolved the strategy execution architecture as the trading focus shifted from event-driven, short-timeframe strategies to primarily hourly and daily strategies, adding support for scheduled, job-based execution.
+    - Built a system for calculating and visualizing trading PnL and performance.
+    - Built production safety mechanisms to detect bot failures, halt further execution, and automatically close open positions to limit operational risk.
+  - Trading Platform & Reliability
+    - Designed and built and operated the production runtime platform for automated trading systems on GKE.
+    - Established GitOps-based deployment and configuration workflows using ArgoCD.
+    - Built observability for production trading workloads using Datadog, including metrics, logs, dashboards, and alerting.
+  - Technical Leadership
+    - Led architecture/design reviews and production code reviews across SWE and SRE workstreams.
+    - Owned engineering roadmap planning and project delivery for trading-system and infrastructure initiatives.
+    - Established engineering processes around technical design, review, and implementation quality.
+    - Participated in hiring and onboarding engineers.
 - September, 2022 - : Freelance
-  - July, 2023 - Current: **Tech Lead at a crypto hedge fund**
-    - Designed and developed a high performance and secure trading system using Rust, Solidity and GCP/GKE.
-    - Developed CI/CD infrastructure to improve development agility using GitHub Actions and ArgoCD.
-    - Developed Observability infrastructure using Datadog.
-    - Project management of a small team and code reviews. Responsible for improving the productivity of the developers and ensuring the quality and speed of the team's output.
-    - Researched on MEV/Flashbots and incorporated them into actual strategies. Also doing research on relatively new DeFi protocols such as interest rates and perpetuals.
   - April, 2023 - November, 2023: **Software engineer at [Phi](https://twitter.com/phi_xyz)**
     - Created Quests using Ethers.js/Typescript. Worked on a feature to mint the user's on-chain history as an identity with integrating to smart contracts of other prtocols (DeFi protocols such as Timeswap and sudoswap and other famous projects such as Mirror and Lens).
     - Added some features to a new smart contract ([PHIMaterial](https://github.com/PHI-LABS-INC/PHIMaterial)), communicated with an audit team and addressed security issues in response to the audit reports. (The work was done in a separate private repository, but it is not in the history because it was committed together as an initial commit in this repository for public use.)
